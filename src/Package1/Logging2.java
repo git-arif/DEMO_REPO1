@@ -15,6 +15,8 @@ public class Logging2 {
 		
 		  log.debug("This is a DEBUG message"); log.info("his is a INFO message");
 		  log.error("This is a ERROR message");
+		  System.out.println("Added this latest changes");
+		  System.out.println("Added these changes as well");
 		 
 		
 	}
